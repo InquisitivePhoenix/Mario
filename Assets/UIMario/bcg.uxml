@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement focusable="true" style="flex-grow: 1; background-color: rgba(125, 16, 16, 0); align-items: center; justify-content: center; opacity: 0.54; color: rgba(141, 134, 146, 0.6); height: 663px; width: 349px;">
+        <ui:VisualElement style="flex-grow: 1;" />
+        <ui:VisualElement style="flex-grow: 1; height: 223px; width: 146px;" />
+    </ui:VisualElement>
+</ui:UXML>

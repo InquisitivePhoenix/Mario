@@ -1,0 +1,15 @@
+.mario-labels {
+    font-size: 36px;
+    -unity-font-style: bold;
+    -unity-font: url('project://database/Assets/UnityTechnologies/2DBeginnerAdventureGame/Settings/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=4d9148f77f45cc549a00af7a6c514395&type=3#NotInter-Regular');
+    color: rgb(255, 255, 255);
+    height: 65px;
+    width: 146px;
+}
+
+.unity-button {
+    width: 360px;
+    height: 47px;
+    font-size: 17px;
+    -unity-font-style: bold;
+}

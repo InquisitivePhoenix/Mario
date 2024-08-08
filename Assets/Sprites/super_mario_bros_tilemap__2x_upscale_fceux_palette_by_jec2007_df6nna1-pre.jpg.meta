@@ -1,0 +1,5116 @@
+fileFormatVersion: 2
+guid: f227b1ee02ee36045ac61906a5116ebf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 55
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 838
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49690254110e560409d7ce1e46dd7388
+      internalID: 426238569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 838
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b79df9e75ff96b4ba13944418ff305c
+      internalID: -1325212697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 838
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbc2abaeb7905d40b71e05620c9bed6
+      internalID: 77099495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 838
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a4f27fdeb74ef43b3c580f74eb5a52
+      internalID: -804697132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 838
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09628c68f72061a4398c482949c3b003
+      internalID: 1250093092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 838
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f472ff5b54d3f84096fea45116daa72
+      internalID: 1997140493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 838
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc4e1f052e931443909043487f42c7a
+      internalID: -1199816483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 838
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249ebb2c619e9e84898ef9fbb8c096d6
+      internalID: 1095170303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 838
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c56ff21853fafb4b9f008f21296b288
+      internalID: 275091879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 838
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b80d9766191e4848a3936b8365066b8
+      internalID: -561570754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 838
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fffbbaaaef4ebe44b08033932dbd90b
+      internalID: 1784214085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_11
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 838
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14699841b9ef4945816396c19442568
+      internalID: -1199233817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 838
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394f0976ef24a834298be778b503e53e
+      internalID: 1141353952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 838
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2208119981fde3543836935354687a7e
+      internalID: -421259872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_14
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 838
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab185aad62281d4aa44de34293695ec
+      internalID: -828107870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 782
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5d59b0bd1a49748aa722b5c79513f2
+      internalID: 1105544083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 782
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24c8195805562a4aac92fe893ad7883
+      internalID: 1011691985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 782
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb4d16b476ecca409382ee013c248e4
+      internalID: -2015482032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 782
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35ce37596e58ff4f8a7bb0267d95b77
+      internalID: 17359082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 782
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6050d5bc829635a479dc2fd32ea860a9
+      internalID: -1596642297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 782
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b82eb2fd85459b45b1014e84ea7f93f
+      internalID: 562063984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 782
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1545bb84cc6e6c64797d9f6f353eca5f
+      internalID: -1347284527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_22
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 782
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8279ba30e208be841b2962653901ab50
+      internalID: -1283154752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 782
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc94ce3ad0e6b1e4ca08ddd75596aed7
+      internalID: 2126869163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_24
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 782
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0048e3388d5fac4abb0c2c563a8f745
+      internalID: -251212131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_25
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 782
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43262fcd374ca24dbb8fe75af1da363
+      internalID: 1696374250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_26
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 782
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385327b91df62204b85ebdba43cdf897
+      internalID: 754812101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 782
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c38a3936802ea4baf7c1256620ca70
+      internalID: 1656242788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_28
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 782
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903cbf7750b59e745a6ad5a5d0ec1b16
+      internalID: -812881380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_29
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 782
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3a7ac0d4b590d49afbb0b46216664f
+      internalID: -1510345892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413b40c3454a1f346abfa5ab7349bb99
+      internalID: -353302775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 726
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98720a941a1f2324894ba4d18fc31d05
+      internalID: -1185080236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 726
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edb7849d15ed134ba3e56263fced7e6
+      internalID: 896796481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 726
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b8a66b83f394840a5e8de62c745e54
+      internalID: 502319543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 726
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0ecf17b984b934fb6c53e376390e31
+      internalID: -429309573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 726
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54febfc975f5d2f4bbef6f4bfcaf93ef
+      internalID: -978815506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_36
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 726
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364e152dc662f554c82060ad2b9e2632
+      internalID: -754717515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_37
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 726
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9db5db766342e24d925b162a8ea964f
+      internalID: 211207926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 726
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a2d20807e97fd4b84dd73d8ad0877a
+      internalID: 430386287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_39
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 726
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c14ad461af8a24d8d45f8f18533c69
+      internalID: 879748682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_40
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 726
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528d3e65acfde3e47942d2b81a01095a
+      internalID: 186092793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_41
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 726
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adadee520cfe664f9441b149db65416
+      internalID: -1187777120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_42
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 726
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74b061eb38137b42816cbf83564b21a
+      internalID: -812291930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_43
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 726
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9410040ddc762d04d8f8a8c4c0033c87
+      internalID: -1890135395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_44
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 726
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6799dc937aa6204fa190aa0fad91cc7
+      internalID: -949318061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 670
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2915fd8e4b7d84b4e82742b92981b738
+      internalID: -1350387526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_46
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 670
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f63d14549c430849adf259195d9e2bd
+      internalID: -1208770255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 670
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e20f9806bed44448932c24d564d96d
+      internalID: -1544803312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_48
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 670
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ed3ea12de5b384382cb40e4c7ec8c6
+      internalID: -473781318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 670
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8524e0852c28fb459f9fda991cbfdcb
+      internalID: -1716689582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_50
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 670
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854b982cc97c6a44bab5727786ad9a0a
+      internalID: -1399936293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 670
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259802c7d10ec10419dd9160fa390297
+      internalID: 1746179517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_52
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 670
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8ffd81dbd986442966f7918a79526d
+      internalID: -2143796255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 670
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef55b058853b3f844a58ef3216e2d4e2
+      internalID: -882522245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 670
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f2f6758c844ae4fb197fb886d43bf2
+      internalID: -1954635017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_55
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 670
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62d31975095825449fd35166fb44373
+      internalID: 1411453461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_56
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 670
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4160b651093c94ea883f2b5b85ebd4
+      internalID: 2105673463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_57
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 670
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f45ac278a1fc23418679170f7f8c09d
+      internalID: -137938662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_58
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 670
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d946a9a441bb8468ced6f605a97469
+      internalID: 1946619406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_59
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 670
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850dc77f92f76e041be0c9eb3e148ddf
+      internalID: 191972319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4257dc41bcb61934d8313448d4929150
+      internalID: 2119073867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 614
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22a7348d0b87444098246488b14b682
+      internalID: -1438389071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 614
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a471295093eaaf4f96766562aa5ca73
+      internalID: 700065554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_63
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 614
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e04ae3004f5d2f4cba61e9ac9ae0350
+      internalID: 587692903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 614
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0a1a0fd08237e4f98e9a909d528a22
+      internalID: -1576802355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_65
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 614
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb8e4ab1916d5d4393b7133c5612e05
+      internalID: -159697503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_66
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 614
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4a02a73a4bd96429f95025696e53ec
+      internalID: -729563050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_67
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 614
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9474cc523dbee341a4a291b0695424b
+      internalID: -865746085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_68
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 614
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9662575f10378a42b1f50037611131a
+      internalID: 345006731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_69
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 614
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a683eba744b0e084ab8f014f0174bfc8
+      internalID: -2096538540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_70
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 614
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9275bb754d3ce4a9250b22528b0151
+      internalID: 681390595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_71
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 614
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b410af160bf58a547b3051f128c9d2e5
+      internalID: -1940929162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_72
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 614
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07b933595e525f478390a3c7e9d61d9
+      internalID: -1504699210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_73
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 614
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e3be82d10d93145aa36d66fdda65a4
+      internalID: -2104901836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_74
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 614
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5526874fb35535349bdd690c14e1bed0
+      internalID: 1165291102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d183bcdf4b0744489954feeb49c15d
+      internalID: 1817211441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_76
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 558
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e34037a49f434847836cb9116c08783
+      internalID: 1938171194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 558
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5fc34138860c4439b0a7c2c675f555
+      internalID: 312590284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_78
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 558
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a28161804ac3b647976dfd4cc1cd4c8
+      internalID: 862294913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 558
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defb45cd69425d0498a04cacdffbb3ee
+      internalID: -1631982289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_80
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 558
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61d2b217ef0dac4e86f1320a4cf2c91
+      internalID: 2067957746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_81
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 558
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e4c7dd2cb17164a97a6de08bf52af6
+      internalID: 2040482740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_82
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 558
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899b982d589aec24689d09572a8952dc
+      internalID: -1531061583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_83
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 558
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab277105cf1e93248a6b5c83340cf6b9
+      internalID: 1752428101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_84
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 558
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312338c547dc2b74aac7403032b2ea9d
+      internalID: -473412342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_85
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 558
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4dbf541d8899547979bc41dd2ec910
+      internalID: -1980367130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_86
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 558
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1385829468af5e47ad021f14ac66ba3
+      internalID: 951591265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_87
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 558
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8759a59ebbcad644b8807328b7a60ee2
+      internalID: 1375716007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_88
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 558
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b057089c307a64cace58448821e258
+      internalID: -1400729791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_89
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 558
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860e76502e1739f48ba95e6a2b090be2
+      internalID: 1863344608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefdd66e503296641a44cd6f335b6605
+      internalID: -237600633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_91
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 502
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d2374858e1bc547aa4ac64e5014964
+      internalID: -684831563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_92
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 502
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82494ddbd43902d49b2c8966e38e3e35
+      internalID: -1748322458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_93
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 502
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7733b1c2aa373da48900d6acb410908c
+      internalID: -1768994054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_94
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 502
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed6a030d5d9a584ab7c04eff9d78ce5
+      internalID: -729758925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_95
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 502
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510c19b152372f74faf1e099c30f5b82
+      internalID: -696007501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_96
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 502
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b160efb5d88c2624ab38c8f441f4f307
+      internalID: -1430613180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_97
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 502
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dd38a5f79fa9a4c97794fe20596544
+      internalID: -1452323283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_98
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 502
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2ef3b1df1ea6f4c81aab6df8b01ac8
+      internalID: 1903521989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_99
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 502
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4b1c73c01e9e2439200d5b011d9e4e
+      internalID: -671141795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_100
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 502
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6989171866e8cb647813f4da68c6d437
+      internalID: -1043789931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_101
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 502
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351bf6212335e4147ad2455ef85a8a59
+      internalID: -1817019359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_102
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 502
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdca7f26970efac4c9ed70d4d4d2224b
+      internalID: -1584902108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_103
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 502
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a98b30659e354344a7a475082f331fc
+      internalID: -1129348578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_104
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 502
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc645f4e0695b441b18d4f1dca887a8
+      internalID: 1384208905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ff893a2cfe1154abc4130de58d4cd2
+      internalID: 689554060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_106
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 446
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1ad9fc4989d6040b9ddf46b2621d2e
+      internalID: 200337080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_107
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 446
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5a422fbb9aef74c8a4a4fc6fb21245
+      internalID: 395604561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_108
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 446
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481e89848d2a10343be40d8ba6a707df
+      internalID: 1902973801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 446
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0dab8a0f3de0145b10407e7ebba997
+      internalID: 32376775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_110
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 446
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cf28e905e2bc24895c015b846b0635
+      internalID: -1261326186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_111
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 446
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eecf4547fc5e54694c7fbe76a84169
+      internalID: -1725451498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_112
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 446
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52525c9bb8942f34fae1684b32ed3037
+      internalID: -635079606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_113
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 446
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d0151833be80347b2adf7ac0dae3d8
+      internalID: 238836562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_114
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 446
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25c96ec6bc29a04bacfe21225968508
+      internalID: 45380394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_115
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 446
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f316889cd9886184ca418c25f2ca8ca4
+      internalID: -1833927523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_116
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 446
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e3911493f74924485d402d485bb715
+      internalID: -185309080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_117
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 446
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdee118f72abcf84cbdbd24505c355e7
+      internalID: 794921668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_118
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 446
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857f57e80f83076498d26fcfeb9677c1
+      internalID: -840451117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_119
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 446
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bae25c437a22894aa14a0a1939a10a5
+      internalID: -1912873584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94910faa84ffec428556f84210e5382
+      internalID: 1576913568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_121
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 390
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a215a62aeecef4b968d88e076e17af
+      internalID: 2093531248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_122
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 390
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebafa05b6927284a8796561edefa70b
+      internalID: -985803927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_123
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 390
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94b4586dc9e0c3489b2a19375def9e0
+      internalID: 743894235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_124
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 390
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4279922df0945c541879d56bb8bf6d49
+      internalID: 176210957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_125
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 390
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cd955e6e3795c479bca96f7380bc4d
+      internalID: -335695147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_126
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 390
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49936098bca5364db1215d47322ab51
+      internalID: 908790551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_127
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 390
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c8bd7cc4214d74f83e13d84040cde2
+      internalID: 2035278457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_128
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 390
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e6ecf84bc330d40a70fb723a81685c
+      internalID: 1527660798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_129
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 390
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878de51a66ff33a49a54a4865402629b
+      internalID: 751187526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_130
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 390
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98424259e241864783f70202fb974da
+      internalID: 863791639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_131
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 390
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4eee28704f8c44692f4a1e2f7ae154
+      internalID: -1799950471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_132
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 390
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4168c8efd6a17e48a3d740d11f2afc7
+      internalID: 1312972936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_133
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 390
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3176baaa90696964c9816c6fe35a60a1
+      internalID: -1958701684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_134
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 390
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87dae1e92436ce4f9ccdfd31161bd20
+      internalID: 1319314690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55aa9246009e6254f9b026a492952cdc
+      internalID: 420323763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_136
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 334
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef3e820d413b6049839dc016cf3a734
+      internalID: 255704653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_137
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 334
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04eab384da7e0a42a9f48531e7807ae
+      internalID: 299546232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_138
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 334
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86607207b62e09b40b0710bc3227809a
+      internalID: -318304216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_139
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 334
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0469e0a29f8814ea762460e4ecc0d2
+      internalID: -1508362305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_140
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 334
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e1913ac2417cc41a51bb260d506841
+      internalID: 779154112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_141
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 334
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431a9069781aad142bb5d1d9a223493a
+      internalID: -963161381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_142
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 334
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a11430d1fbe844fa70b30389179edf
+      internalID: 1571805849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_143
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 334
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266401b10e8a20443b92b9b6cc4290e2
+      internalID: 1251397665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_144
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 334
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3ab6041998faf4b9b9cb2a0d7319bb
+      internalID: -1807318254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_145
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 334
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c1b9f6e8b66b3428d129681e415ae3
+      internalID: -1430845406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_146
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 334
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1660b16138cdf3b429625328c87cc170
+      internalID: 1781934136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_147
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 334
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0f9edc7b135ec4b9405b52196ad18d
+      internalID: -2012489283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_148
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 334
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1e5f9dc0ecceb4a95c08e0b3817584
+      internalID: -538006042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_149
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 334
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c93f49b88f356344a8a529b2b6911ce
+      internalID: 553440211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678e569676d63194d957f9651dde5e3c
+      internalID: -1923398103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_151
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 278
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d3401753c006142a6b16c30d72a472
+      internalID: -612865640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_152
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 278
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dbc6e9062a4cb40b16a2557af65109
+      internalID: -514338515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_153
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 278
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20435af92c4ed24bad335e44386f6af
+      internalID: -1691011508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 278
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed3020ef7763ff4b9b3b903c1416bb1
+      internalID: -481850158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_155
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 278
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b70051188627294eaedc81894b85be0
+      internalID: 514821500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_156
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 278
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82facbfe5ef0bcd499e6c4ebd121c789
+      internalID: 1434834381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_157
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 278
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e29afd464b6f34d933df67b614a381
+      internalID: 1211500659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 278
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415da8d286af1a742906a3f48c8a7338
+      internalID: -1293054242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_159
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 278
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942026b20423cf24c97f77782eb85420
+      internalID: -754125973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_160
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 278
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b57571446608f48a047558447fbf60
+      internalID: -108577864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_161
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 278
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2e2445c09101f40b4023c4e20516b3
+      internalID: -330917840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_162
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 278
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836aba564af41fe4d839a2ce675c6aed
+      internalID: 457151035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_163
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 278
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93f5551523b29d47abdb4d1de167730
+      internalID: -566879919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_164
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 278
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84041de664f05404baf94d43d470e812
+      internalID: 1549982804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7828b174cbfdf142ba4fefa2b765254
+      internalID: 247002862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_166
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 222
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c858d423a2e15740ac066605bfe0fb7
+      internalID: 2117056462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_167
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 222
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77e5dd33f6642e47b0fd37d3bb5802b
+      internalID: 1207664605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_168
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 222
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacdb7ccf2eb8294ab23ecfcd9d3d714
+      internalID: 891921422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_169
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 222
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3744f382137aab4b8885b78ba118a4a
+      internalID: 1997877919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_170
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 222
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6891311eadcf93e4eace969704af2eec
+      internalID: -64262942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_171
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 222
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde316eede366cf4bb3ac56114a0f85b
+      internalID: -1220600776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_172
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 222
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834acbaa4c1ae144791061a221ec8b25
+      internalID: -834876883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_173
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 222
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f84b8ea8d91ffe49838e7d7cdb57c39
+      internalID: 886269818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_174
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 222
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44c47083b81d8640ab3320925e0603e
+      internalID: -226894290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_175
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 222
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d7488325b99f0459605c4631f3b4c7
+      internalID: 1731011857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_176
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 222
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1055ac83401ab144b0235b9d316d96b
+      internalID: -1011096984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_177
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 222
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434a54c84bf8e6649a853a44edb1cfc7
+      internalID: -92318341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_178
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 222
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b363af2c86db346a08effd24382b8f
+      internalID: 761027248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_179
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 222
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710f6fbb4c89db04dbf667bbfcb13484
+      internalID: -788208951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5367c01c5cdcc054a9adb62a963d23d3
+      internalID: 307219855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_181
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 166
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e935f477c3e5044e86976d7b2f95230
+      internalID: 214691211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_182
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 166
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53645bf44befea348a7a1e423d735729
+      internalID: 192968582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_183
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 166
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7126757357869844fa4a58ad09ddde2b
+      internalID: -1154568251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_184
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 166
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97535e2d1904ef045a25489e810c9baf
+      internalID: 1857554325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_185
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 166
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439ab360b3fbd2149b2f1e5e63faffe4
+      internalID: 1988779028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_186
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 166
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5896cc3b700d04e46ab8351bc1b8f73f
+      internalID: 433220884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_187
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 166
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f14adda39530144ad762bd37643b49
+      internalID: -1900243003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_188
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 166
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb962783058a1b64197c8fed85c47c53
+      internalID: 258747666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_189
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 166
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e74e66aa3c5a2e459260e28ac0000d7
+      internalID: -1194411877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_190
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 166
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c194e3ef2bf120f48a0dc8581b043d15
+      internalID: -1027370841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_191
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 166
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9357332e7edb61a4b82de8a7122b2d88
+      internalID: -1614823556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_192
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 166
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e03c5869aa502f4f884712e1f33086d
+      internalID: 398431988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_193
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 166
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e94ac0ade21711429a0cbe655a63704
+      internalID: 296410505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_194
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 166
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25226b1b90e1ea342b2429c13991c45c
+      internalID: 712592226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d945b6674ab0d2943b0caf630ca0a49f
+      internalID: 1845510978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_196
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 110
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446de643ffda56a4bbab1a45505c3d09
+      internalID: -1435749727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_197
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 110
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee16acf8c0980349a1ecf7938f73f9f
+      internalID: -2097514739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_198
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 110
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c21c6ff2323cc64cbac307577ac21ac
+      internalID: 351852157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 110
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2f2385eb2d3e749a85a13415c3331d
+      internalID: -1466312083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_200
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 110
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784d5df1dda67e345973f277ff5b8477
+      internalID: 893340640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_201
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 110
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f73331d3d0c3845b34ac6406c6025a
+      internalID: -240766220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_202
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 110
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435eb5640928aa443897fd30135a3c7d
+      internalID: 1637590858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_203
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 110
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6888995b4dfc4584d9f36a582e808281
+      internalID: 1193164001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_204
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 110
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a75d2cafa9a7b499b7618b4a0f0722
+      internalID: 919915501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_205
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 110
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67edea65ccfc15642bb50b0dd1646592
+      internalID: -486912059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_206
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 110
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31f8648f89f61b4391a6fa2424bdc9f
+      internalID: 183818752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_207
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 110
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8112ce23facf8478d377ef6714dc7a
+      internalID: -1718158722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_208
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 110
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26dc89aab1522244901472e3eb48328
+      internalID: 1275083554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_209
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 110
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56d9cbeb258fc646be5b639fb860a2a
+      internalID: -148059124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ba8887f4aba7f498d355a16e883b33
+      internalID: -391914264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_211
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 54
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f6b4e911b565348b0f0d6756650ea6
+      internalID: 1534589246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_212
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 54
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5837b13fd4e5958448fced2db355fbc6
+      internalID: -698679805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_213
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 54
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0759026ac1f1ce4e8db1cb46c087a51
+      internalID: -1689005435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_214
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 54
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e211c0f996e58734bb87f388337cde01
+      internalID: 1892367451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_215
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 54
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8455949745299b94ba9deeb2b443d4a1
+      internalID: -533479184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_216
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 54
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba58eb1f3e8e3f4bbe92de051c14d61
+      internalID: -781240830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_217
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 54
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90eb8e0412189554088a57edced7ff92
+      internalID: 1321658008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_218
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 54
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5f83a96a8e7e647800b3b3740490a0
+      internalID: 1637326483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_219
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 54
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a176c6f5d9c09414994e71a11e32ffa2
+      internalID: -1258435277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_220
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 54
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a0ccb93a2ce1944b1c3aced0c65bd0
+      internalID: -393328548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_221
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 54
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11931bd168e5de443840ccdde1c9a502
+      internalID: 634798962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_222
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 54
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59631fc5652c4f4aad5d291b0992347
+      internalID: -53307067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_223
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 54
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b54ec488d007641bd892d1b3e1ee5e
+      internalID: -659746843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_224
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 54
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95963470aba02004e99015c1a1444f15
+      internalID: -537233325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_0: 426238569
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_1: -1325212697
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_10: 1784214085
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_100: -1043789931
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_101: -1817019359
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_102: -1584902108
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_103: -1129348578
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_104: 1384208905
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_105: 689554060
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_106: 200337080
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_107: 395604561
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_108: 1902973801
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_109: 32376775
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_11: -1199233817
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_110: -1261326186
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_111: -1725451498
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_112: -635079606
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_113: 238836562
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_114: 45380394
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_115: -1833927523
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_116: -185309080
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_117: 794921668
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_118: -840451117
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_119: -1912873584
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_12: 1141353952
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_120: 1576913568
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_121: 2093531248
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_122: -985803927
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_123: 743894235
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_124: 176210957
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_125: -335695147
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_126: 908790551
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_127: 2035278457
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_128: 1527660798
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_129: 751187526
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_13: -421259872
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_130: 863791639
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_131: -1799950471
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_132: 1312972936
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_133: -1958701684
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_134: 1319314690
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_135: 420323763
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_136: 255704653
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_137: 299546232
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_138: -318304216
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_139: -1508362305
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_14: -828107870
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_140: 779154112
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_141: -963161381
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_142: 1571805849
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_143: 1251397665
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_144: -1807318254
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_145: -1430845406
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_146: 1781934136
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_147: -2012489283
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_148: -538006042
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_149: 553440211
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_15: 1105544083
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_150: -1923398103
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_151: -612865640
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_152: -514338515
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_153: -1691011508
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_154: -481850158
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_155: 514821500
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_156: 1434834381
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_157: 1211500659
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_158: -1293054242
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_159: -754125973
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_16: 1011691985
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_160: -108577864
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_161: -330917840
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_162: 457151035
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_163: -566879919
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_164: 1549982804
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_165: 247002862
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_166: 2117056462
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_167: 1207664605
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_168: 891921422
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_169: 1997877919
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_17: -2015482032
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_170: -64262942
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_171: -1220600776
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_172: -834876883
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_173: 886269818
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_174: -226894290
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_175: 1731011857
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_176: -1011096984
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_177: -92318341
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_178: 761027248
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_179: -788208951
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_18: 17359082
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_180: 307219855
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_181: 214691211
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_182: 192968582
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_183: -1154568251
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_184: 1857554325
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_185: 1988779028
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_186: 433220884
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_187: -1900243003
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_188: 258747666
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_189: -1194411877
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_19: -1596642297
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_190: -1027370841
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_191: -1614823556
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_192: 398431988
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_193: 296410505
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_194: 712592226
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_195: 1845510978
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_196: -1435749727
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_197: -2097514739
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_198: 351852157
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_199: -1466312083
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_2: 77099495
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_20: 562063984
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_200: 893340640
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_201: -240766220
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_202: 1637590858
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_203: 1193164001
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_204: 919915501
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_205: -486912059
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_206: 183818752
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_207: -1718158722
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_208: 1275083554
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_209: -148059124
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_21: -1347284527
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_210: -391914264
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_211: 1534589246
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_212: -698679805
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_213: -1689005435
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_214: 1892367451
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_215: -533479184
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_216: -781240830
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_217: 1321658008
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_218: 1637326483
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_219: -1258435277
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_22: -1283154752
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_220: -393328548
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_221: 634798962
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_222: -53307067
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_223: -659746843
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_224: -537233325
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_23: 2126869163
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_24: -251212131
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_25: 1696374250
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_26: 754812101
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_27: 1656242788
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_28: -812881380
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_29: -1510345892
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_3: -804697132
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_30: -353302775
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_31: -1185080236
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_32: 896796481
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_33: 502319543
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_34: -429309573
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_35: -978815506
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_36: -754717515
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_37: 211207926
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_38: 430386287
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_39: 879748682
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_4: 1250093092
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_40: 186092793
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_41: -1187777120
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_42: -812291930
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_43: -1890135395
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_44: -949318061
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_45: -1350387526
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_46: -1208770255
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_47: -1544803312
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_48: -473781318
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_49: -1716689582
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_5: 1997140493
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_50: -1399936293
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_51: 1746179517
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_52: -2143796255
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_53: -882522245
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_54: -1954635017
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_55: 1411453461
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_56: 2105673463
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_57: -137938662
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_58: 1946619406
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_59: 191972319
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_6: -1199816483
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_60: 2119073867
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_61: -1438389071
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_62: 700065554
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_63: 587692903
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_64: -1576802355
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_65: -159697503
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_66: -729563050
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_67: -865746085
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_68: 345006731
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_69: -2096538540
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_7: 1095170303
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_70: 681390595
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_71: -1940929162
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_72: -1504699210
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_73: -2104901836
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_74: 1165291102
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_75: 1817211441
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_76: 1938171194
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_77: 312590284
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_78: 862294913
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_79: -1631982289
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_8: 275091879
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_80: 2067957746
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_81: 2040482740
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_82: -1531061583
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_83: 1752428101
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_84: -473412342
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_85: -1980367130
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_86: 951591265
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_87: 1375716007
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_88: -1400729791
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_89: 1863344608
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_9: -561570754
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_90: -237600633
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_91: -684831563
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_92: -1748322458
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_93: -1768994054
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_94: -729758925
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_95: -696007501
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_96: -1430613180
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_97: -1452323283
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_98: 1903521989
+      super_mario_bros_tilemap__2x_upscale_fceux_palette_by_jec2007_df6nna1-pre_99: -671141795
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
